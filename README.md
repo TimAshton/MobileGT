@@ -8,13 +8,13 @@
 MVP
 * Tracked in GitHub
 * Bootstrap CSS or equiv
-PWA
-Use Tech from class.
-Front End = V
-PWA - (bundled app via Webpack)
-Back end  (API) = Controller
-Express
-DataBase = M
+* PWA
+* Use Tech from class.
+* Front End = V
+* PWA - (bundled app via Webpack)
+* Back end  (API) = Controller
+**Express
+*DataBase = M
 MongoDB
 “Schema”
 Player
